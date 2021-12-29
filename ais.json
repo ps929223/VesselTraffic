@@ -1,0 +1,27 @@
+{
+    "id": "3EUQ3_20191107042528",
+    "sk": "3EUQ3",
+    "mmsi": "373529000",
+    "SHIP_NAME": "QUEEN SAPPHIRE",
+    "IMO": "9599755",
+    "DATA_SOURCE": "AQUA_PLOT",
+    "TIME_STAMP": "2019-11-07T04:25:28.000Z",
+    "TIME_STAMP_API_CALL": "2019-11-07T05:00:19.774Z",
+    "TIME_DIFF_SECOND": 2092,
+    "NAVIGATIONAL_STATUS": "UNDER WAY USING ENGINE",
+    "SPEED_VG": 11.4,
+    "COURSE_OVER_GROUND": 51.9,
+    "SHIP_HEADING": 50,
+    "DRAUGHT": -9999,
+    "DESTINATION": "SINGAPORE",
+    "CARGO_TYPE": "Hazard or Pollutant Category OS",
+    "STARTPOINT": "",
+    "ETA": "2019-11-10T12:00:00.000Z",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            74.27744833333334,
+            -10.407351666666667
+        ]
+    }
+}
